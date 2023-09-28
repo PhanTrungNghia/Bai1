@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigate to Fragment by using Bottom Navigation View</string>
+    <string name="replace_fragment">Replace Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+</resources>

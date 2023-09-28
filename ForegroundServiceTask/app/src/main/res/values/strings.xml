@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play Music By Foreground Service</string>
+    <string name="channel_name">Running Notification</string>
+
+</resources>

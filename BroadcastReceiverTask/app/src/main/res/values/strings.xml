@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Check Internet by using Broadcast</string>
+    <string name="button_retry">retry</string>
+</resources>
